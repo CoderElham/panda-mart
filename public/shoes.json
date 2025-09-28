@@ -1,0 +1,67 @@
+[
+  {
+    "id": "S001",
+    "name": "Running Sneakers",
+    "brand": "Nike",
+    "price": 89.99,
+    "sizes": [7, 8, 9, 10, 11],
+    "colors": ["Black", "White", "Red"],
+    "stock": 150,
+    "category": "Running",
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.5,
+    "description": "Lightweight running sneakers designed for comfort and durability."
+  },
+  {
+    "id": "S002",
+    "name": "Classic Leather Shoes",
+    "brand": "Clarks",
+    "price": 120.00,
+    "sizes": [6, 7, 8, 9, 10],
+    "colors": ["Brown", "Black"],
+    "stock": 80,
+    "category": "Formal",
+    "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "description": "Premium leather shoes perfect for formal occasions."
+  },
+  {
+    "id": "S003",
+    "name": "Trail Hiking Boots",
+    "brand": "Merrell",
+    "price": 140.50,
+    "sizes": [8, 9, 10, 11, 12],
+    "colors": ["Brown", "Olive"],
+    "stock": 60,
+    "category": "Hiking",
+    "image": "https://images.unsplash.com/photo-1615615228002-890bb61cac6e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.3,
+    "description": "Durable hiking boots for rough terrains with waterproof material."
+  },
+  {
+    "id": "S004",
+    "name": "Casual Slip-Ons",
+    "brand": "Vans",
+    "price": 55.00,
+    "sizes": [6, 7, 8, 9, 10, 11],
+    "colors": ["Black", "Checkerboard"],
+    "stock": 200,
+    "category": "Casual",
+    "image": "https://images.unsplash.com/photo-1615743472612-93b21e520fad?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.2,
+    "description": "Comfortable slip-on shoes for everyday wear."
+  },
+  {
+    "id": "S005",
+    "name": "High Heels",
+    "brand": "Steve Madden",
+    "price": 75.99,
+    "sizes": [5, 6, 7, 8, 9],
+    "colors": ["Red", "Black", "Nude"],
+    "stock": 90,
+    "category": "Formal",
+    "image": "https://images.unsplash.com/photo-1673231550539-7d71c794e66c?q=80&w=1088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.6,
+    "description": "Elegant high heels designed to add height and style."
+  }
+]

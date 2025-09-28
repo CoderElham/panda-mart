@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.catagories-card{
+  @apply cursor-pointer transition duration-500 hover:-translate-y-1 hover:shadow-lg
+}
