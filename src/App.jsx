@@ -5,6 +5,7 @@ import Catagories from './Components/Catagories/Catagories'
 import Navbar from './Components/Navbar'
 import Shoes from './Components/Shoes/Shoes'
 import Backpack from './Components/Backpack/Backpack'
+import Footer from './Components/Footer/Footer'
 
 const fetchPromise = fetch('shoes.json').then(res => res.json())
 const backpackPromise = fetch('backpack.json').then(res=>res.json())
@@ -28,6 +29,9 @@ function App() {
         </Suspense>
         </div>
       </main>
+      <footer>
+        <Footer></Footer>
+      </footer>
     </>
   )
 }
