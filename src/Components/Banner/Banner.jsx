@@ -3,7 +3,7 @@ import './Banner.css'
 import { FaArrowRight } from "react-icons/fa";
 const Banner = () => {
   return (
-    <div className='w-11/12 mx-auto px-10 bg-[#FEEAE9] flex flex-col-reverse md:flex-row items-center justify-between mt-10 rounded-lg'>
+    <div className='w-11/12 mx-auto px-10 bg-pink-100 flex flex-col-reverse md:flex-row items-center justify-between mt-10 rounded-lg'>
       <div className='w-full md:w-[50%] text-center md:text-start space-y-2'>
         <h1 className='font-poppins text-[32px] md:text-[56px] font-bold'>Mi LED TV 4A PRO 32</h1>
         <p className='font-inter'>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
